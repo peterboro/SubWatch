@@ -266,6 +266,3 @@ Distributed under the **MIT License**.
 📧 [ptahbn@gmail.com](mailto:ptahbn@gmail.com)
 🌐 [https://github.com/peterboro](https://github.com/peterboro)
 
----
-✅ Auto-generated API docs
-Just ask!
